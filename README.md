@@ -1,2 +1,2 @@
 # OOP-ITTID3
-si
+aqui estaran subidos los trabajos de Dominik Villanueva para la materia Programacion orientada a objetos
